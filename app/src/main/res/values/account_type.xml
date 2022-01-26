@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_type">
+        <item>Driver</item>
+        <item>Delivery Partner</item>
+    </string-array>
+</resources>

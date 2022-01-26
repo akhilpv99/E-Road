@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#007A85</color>
+    <color name="colorPrimaryDark">#007A85</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="hintcolor">#00BCD4</color>
+    <color name="buttoncolor">#000000</color>
+    <color name="red">#FF0000 </color>
+    <color name="green">#00FF00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#2196F3</color>
+    <color name="searchingTabBackground">#D6DBE0</color>
+    <color name="Blue">#E91E63</color>
+    <color name="Black">#000000</color>
+    <color name="black">#000000</color>
+    <color name="fullbackground">#777777</color>
+    <color name="buttoncolor1">#000000</color>
+    <color name="background_no_network">#692658</color>
+    <color name="directionsTabBackground">#ebe8de</color>
+
+</resources>

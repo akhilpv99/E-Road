@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527166156121",
+    "firebase_url": "https://eroad-a22ff.firebaseio.com",
+    "project_id": "eroad-a22ff",
+    "storage_bucket": "eroad-a22ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527166156121:android:b141025eb21175d8",
+        "android_client_info": {
+          "package_name": "com.eroad.darkhand.eroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527166156121-8cgp4gk07jdgpb5lc5nv2rrg8qhsvgcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eroad.darkhand.eroad",
+            "certificate_hash": "f46615338242b995151d66c8e09acc7300e943df"
+          }
+        },
+        {
+          "client_id": "527166156121-jjt5bp4qa23i6sumq048el5utlhhb2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTEKUJXG_bMnQiIbrP11PuO34Hbvq9HTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527166156121-jjt5bp4qa23i6sumq048el5utlhhb2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
